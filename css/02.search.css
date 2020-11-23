@@ -1,0 +1,13 @@
+.form-wrap {
+	position: relative;
+	display: inline-block;
+	/* border: 1px solid #445; */
+}
+.input-menu {
+	min-width: 200px;
+}
+.bt-search {
+	position: absolute; 
+	top: 12px; right: 24px;
+	cursor: pointer;
+}
